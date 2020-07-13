@@ -1,0 +1,13 @@
+Question,Type,Option1,Option2,Option3,Option4,Solution,Answer,Marks
+"This is a simple equation: <span class=""math inline""><em>A</em> = <em>π</em><em>r</em><sup>2</sup></span>",multiple_choice,"sp<sup>2</sup> , 180°,incorrect","Sp, 180°,correct","sp<sup>2</sup> , 120°.,incorrect","sp<sup>3</sup> , 109°.,incorrect","Sp, 180°",,"4,1"
+"This is a complex equation: <span class=""math inline"">$x = \frac{- b \pm \sqrt{b^{2} - 4\text{ac}}}{2a}$</span>",integer,,,,,"a e i o u, they are 5",5,"2,4"
+"This is another complex equation: <span class=""math inline"">$f\left( x \right) = a_{0} + \sum_{n = 1}^{\infty}\left( a_{n}\cos\frac{\text{nπx}}{L} + b_{n}\sin\frac{\text{nπx}}{L} \right)$</span>",fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+This is a sample JPEG image: <img src= images\image1.jpeg >,fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+"This is a question with two images (PNG and TIF, respectively): <img src= images\image2.png > <img src= images\image3.tiff >",fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+"This is a question with table.,<table><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>I</td><td>J</td><td>K</td><td>L</td></tr></table>",fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+"This is a simple equation: <span class=""math inline""><em>A</em> = <em>π</em><em>r</em><sup>2</sup></span>",multiple_choice,"sp<sup>2</sup> , 180°,incorrect","Sp, 180°,correct","sp<sup>2</sup> , 120°.,incorrect","sp<sup>3</sup> , 109°.,incorrect","Sp, 180°",,"4,1"
+"This is a complex equation: <span class=""math inline"">$x = \frac{- b \pm \sqrt{b^{2} - 4\text{ac}}}{2a}$</span>",integer,,,,,"a e i o u, they are 5",5,"2,4"
+"This is another complex equation: <span class=""math inline"">$f\left( x \right) = a_{0} + \sum_{n = 1}^{\infty}\left( a_{n}\cos\frac{\text{nπx}}{L} + b_{n}\sin\frac{\text{nπx}}{L} \right)$</span>",fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+This is a sample JPEG image: <img src= images\image11.jpeg >,fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+"This is a question with two images (PNG and TIF, respectively): <img src= images\image21.png > <img src= images\image31.tiff >",fill_ups,"good, awesome",range(5:10),,,,,"4,1"
+"This is a question with table.,<table><tr><td>A</td><td>B</td><td>C</td><td>D</td></tr><tr><td>E</td><td>F</td><td>G</td><td>H</td></tr><tr><td>I</td><td>J</td><td>K</td><td>L</td></tr></table>",fill_ups,"good, awesome",range(5:10),,,,,"4,1"
